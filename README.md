@@ -1,7 +1,7 @@
 # poolJs
 lightweight CSS useful library 
 
-npm: https://www.npmjs.com/package/poolcss
+![npm](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png)
 
 ## Content center
 ### .content-c
