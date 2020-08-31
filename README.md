@@ -1,4 +1,4 @@
-# poolJs
+# poolcss
 lightweight CSS useful library 
 
 ## install 
