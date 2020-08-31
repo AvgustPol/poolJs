@@ -13,7 +13,7 @@ lightweight CSS useful library
 
 *must be combined with **d-flex** class for parent element 
 
-![.content-c](https://github.com/AvgustPol/poolJs/blob/master/.content-center.png?raw=true)
+![.content-c](https://github.com/AvgustPol/poolcss/blob/master/Readme/Images/.content-c.png?raw=true)
 
 
 ## Section full screen
