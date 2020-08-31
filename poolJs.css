@@ -1,12 +1,8 @@
 :root {
-    --red : #DF2935;
-    --black: #070600;
-    --gray: #474350;
-    --white: #fffffc;
-}
-
-body {
-    font-family: monospace;
+    --color-red : #DF2935;
+    --color-black: #070600;
+    --color-gray: #474350;
+    --color-white: #fffffc;
 }
 
 .d-flex {
