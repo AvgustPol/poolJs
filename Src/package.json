@@ -1,0 +1,19 @@
+{
+  "name": "poolcss",
+  "version": "1.0.1",
+  "description": "lightweight CSS useful library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvgustPol/poolJs.git"
+  },
+  "author": "Anton Vlasiuk <vlasiuk.anton@gmail.com> (https://www.linkedin.com/in/vlasiuk-anton/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvgustPol/poolJs/issues"
+  },
+  "homepage": "https://github.com/AvgustPol/poolJs#readme"
+}
