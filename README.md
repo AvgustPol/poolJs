@@ -19,4 +19,4 @@ lightweight CSS useful library
 ## Section full screen
 ### .section-f
 
-![.section-f](https://github.com/AvgustPol/poolJs/blob/master/.section-f.png?raw=true)
+![.section-f](https://github.com/AvgustPol/poolcss/blob/master/Readme/Images/.section-f.png?raw=true)
