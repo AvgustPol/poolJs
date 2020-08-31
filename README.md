@@ -1,6 +1,8 @@
 # poolJs
 lightweight CSS useful library 
 
+npm: https://www.npmjs.com/package/poolcss
+
 ## Content center
 ### .content-c
 
